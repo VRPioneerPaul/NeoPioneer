@@ -1,0 +1,38 @@
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchChatBot NeoPioneer.exe
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchChatBot NeoPioneer.deps.json
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchChatBot NeoPioneer.runtimeconfig.json
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchChatBot NeoPioneer.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchChatBot NeoPioneer.pdb
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Core.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Core.Enums.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Core.Models.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Helix.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Api.Helix.Models.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Client.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Client.Enums.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Client.Models.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.Communication.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.EventSub.Core.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.EventSub.Websockets.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\bin\Debug\net10.0\TwitchLib.PubSub.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.csproj.AssemblyReference.cache
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.AssemblyInfoInputs.cache
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.AssemblyInfo.cs
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.csproj.CoreCompileInputs.cache
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchCh.B8DA84BC.Up2Date
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\refint\TwitchChatBot NeoPioneer.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.pdb
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.genruntimeconfig.cache
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\ref\TwitchChatBot NeoPioneer.dll
+C:\Users\paulb\source\repos\TwitchChatBot NeoPioneer\TwitchChatBot NeoPioneer\obj\Debug\net10.0\TwitchChatBot NeoPioneer.sourcelink.json
